@@ -1,0 +1,7 @@
+colorama
+discord
+requests
+bs4
+mysql-connector
+tpblite
+psutil
