@@ -35,4 +35,4 @@ you go to the "network tab"  "you write api/v" you choose any dm  and should be 
 
 you copy it and now start the notepad++, edit smuv.py and you have token = "paste here" there you paste token
 
-![Alt text](https://github.com/smuv/discordsmuv/blob/main/img.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/smuv/discordsmuv/blob/main/img.PNG?raw=true "preview")
