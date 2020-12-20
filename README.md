@@ -35,4 +35,4 @@ you go to the "network tab"  "you write api/v" you choose any dm  and should be 
 
 you copy it and now start the notepad++, edit smuv.py and you have token = "paste here" there you paste token
 
-![alt text](img.png)
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
