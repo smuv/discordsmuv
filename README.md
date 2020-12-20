@@ -2,15 +2,11 @@ What is this?
 
 This is the script that allows you
 
-╔═════ Commands ════════════════════════════════╗
-║
-║ [1] smuv : (purges your msgs)
-║ [2] smuv.cf : (clrs open direct messages and deletes them)
-║ [3] stream : (stream status ex: eat me https://www.twitch.tv/smuvcf)
-║ [4] away : (removes status)
-║ [5] clrgroups : (leaves all the groups ur in))
-║
-╚══════════════════════════════════════════════╝
+[1] smuv : (purges your msgs)
+[2] smuv.cf : (clrs open direct messages and deletes them)
+[3] stream : (stream status ex: eat me https://www.twitch.tv/smuvcf)
+[4] away : (removes status)
+[5] clrgroups : (leaves all the groups ur in))
 
 how to use it
 1 you need to download python 3.9.1 (or the latest version)
