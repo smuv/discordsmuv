@@ -1,4 +1,4 @@
-##Contact: smuv#2016
+#Contact: smuv#2016
 This is the script that allows you
 
 [1] smuv : (purges your msgs)
