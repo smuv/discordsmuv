@@ -15,11 +15,11 @@ This is the script that allows you
 how to use it
 you need to download python 3.9.1 (or the latest version)
 
-when you have already downloaded, the folder is being moved to all these files
+when you have already downloaded, move all files to your folder
 
-you run cmd - you type cd (folder location)
+you run cmd - you type cd (folder location) example: cd Documents
 
-now type - pip install discord.py - after that you type pip install -r requirements.txt
+now type "pip install discord.py" after that you type pip install "-r requirements.txt"
 
 everything is ready, now you just need your token
 
@@ -31,6 +31,6 @@ Chrome: F12
 
 Firefox: F12
 
-you go to the network tab = you write api/v = you choose any dm = and should write messages?limit=50 = click on it = and search for "authorization"
+you go to the "network tab"  "you write api/v" you choose any dm  and should be "messages?limit=50" click on it and search for "authorization"
 
 you copy it and now start the notepad++, edit smuv.py and you have something like token = "paste here" there you paste this tokene 
