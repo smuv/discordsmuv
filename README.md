@@ -33,4 +33,5 @@ Firefox: F12
 
 you go to the "network tab"  "you write api/v" you choose any dm  and should be "messages?limit=50" click on it and search for "authorization"
 
-you copy it and now start the notepad++, edit smuv.py and you have something like token = "paste here" there you paste this tokene 
+you copy it and now start the notepad++, edit smuv.py and you have token = "paste here" there you paste token
+
