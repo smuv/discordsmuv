@@ -13,15 +13,15 @@ This is the script that allows you
 [5] clrgroups : (leaves all the groups ur in))
 
 how to use it
-1 you need to download python 3.9.1 (or the latest version)
+you need to download python 3.9.1 (or the latest version)
 
-2 when you have already downloaded, the folder is being moved to all these files
+when you have already downloaded, the folder is being moved to all these files
 
-3 you run cmd - you type cd (folder location)
+you run cmd - you type cd (folder location)
 
-4 now type - pip install discord.py - after that you type pip install -r requirements.txt
+now type - pip install discord.py - after that you type pip install -r requirements.txt
 
-5 everything is ready, now you just need your token
+everything is ready, now you just need your token
 
 you have to go to discord browser version
 
