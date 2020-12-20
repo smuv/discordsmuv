@@ -19,7 +19,7 @@ when you have already downloaded, move all files to your folder
 
 you run cmd - you type cd (folder location) example: cd Documents
 
-now type "pip install discord.py" after that you type pip install "-r requirements.txt"
+now type "pip install discord.py" after that you type pip install "pip install -r requirements.txt"
 
 everything is ready, now you just need your token
 
